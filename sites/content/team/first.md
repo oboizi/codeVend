@@ -8,6 +8,10 @@ showpagemeta = true
 slug = ""
 tags = ["manuel", "codevend", "project", "software"]
 title = "The codeVend Team"
+[menu.main]
+identifier = "team"
+name = "Team"
+weight = 4
 
 +++
 - Manuel<br>

@@ -8,6 +8,10 @@ showpagemeta = true
 slug = ""
 tags = ["manuel", "codevend", "project", "software"]
 title = "The Simple codeVend Theory"
+[menu.main]
+identifier = "blog"
+name = "blog"
+weight = 1
 
 +++
 *codeVend comes in for Software Developers who cant find the right platform to document and showcase their produts for their right prices.<br>
