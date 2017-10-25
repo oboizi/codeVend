@@ -6,6 +6,7 @@ baseurl = "https://shenoybr.github.io/hugo-goa-demo/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
+encoding = 'UTF-8'
 
 contentdir = "content"
 layoutdir = "layouts"
