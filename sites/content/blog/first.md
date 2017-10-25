@@ -1,7 +1,7 @@
 ﻿+++
 categories = ["ad"]
 showComments = true
-date = "2017-10-25 T15:59:13-04:00"
+date = "2017-10-25T15:59:13-04:00"
 draft = false
 showpagemeta = true
 showcomments = true
