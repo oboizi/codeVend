@@ -7,10 +7,6 @@ showpagemeta = true
 slug = ""
 tags = ["codevend", "ontop"]
 title = "codeVend onTop"
-[menu.main]
-identifier = "blog"
-name = "blog"
-weight = 1
 
 +++
 CODEVEND!!

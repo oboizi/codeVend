@@ -14,6 +14,14 @@ showComments = true
 theme = "hugo-goa"
 title = "codeVend"
 [[menu.main]]
+identifier = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+identifier = "blog"
+name = "blog"
+weight = 1
+[[menu.main]]
 identifier = "codeVend"
 name = "codeVend"
 weight = 3
