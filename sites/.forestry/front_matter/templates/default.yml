@@ -6,3 +6,10 @@ fields:
   type: field_group
   hidden: false
   default: {}
+- type: text
+  name: fill_this_form
+  label: Email
+  description: Email
+  hidden: false
+  config:
+    required: true
