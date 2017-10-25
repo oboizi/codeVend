@@ -14,25 +14,9 @@ showComments = true
 theme = "hugo-goa"
 title = "codeVend"
 [[menu.main]]
-identifier = "team"
-name = "Team"
-url = "/team/"
-weight = 4
-[[menu.main]]
 identifier = "codeVend"
 name = "codeVend"
-url = "/"
 weight = 3
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 2
-[[menu.main]]
-identifier = "blog"
-name = "blog"
-url = "/blog/"
-weight = 1
 [params]
 author = "codeVend"
 authorimage = "codeVend1.png"
