@@ -40,7 +40,7 @@ dateformat = "Oct 25, 2017"
 description = "Third Party Software Vending'. <br/> \"What is F times 5? It's Fleventy-five.\""
 intro = "Your code On a World Platform"
 [params.extra]
-copyright = "&copy; 2017. Manuel Ampadu. [Some Rights Reserved]"
+copyright = "� 2017. Manuel Ampadu. [Some Rights Reserved]"
 highlightjs = true
 poweredby = false
 [params.meta]
