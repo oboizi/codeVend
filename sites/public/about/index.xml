@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on codeVend</title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on codeVend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Oct 2017 11:45:50 -0700</lastBuildDate>
+    
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about codeVend</title>
+      <link>/about/about/</link>
+      <pubDate>Wed, 25 Oct 2017 11:45:50 -0700</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>codeVend comes in for Software Developers who cant find the right platform to document and showcase their produts for their right prices.
+It comes with easy demo creation for the software uploaders and a critic board to test and debug your software. Your final year project could be the nect big thing, Electronic projects are not left out.
+by Manuel</description>
+    </item>
+    
+  </channel>
+</rss>

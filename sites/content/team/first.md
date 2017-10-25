@@ -1,18 +1,15 @@
-﻿+++
++++
 categories = ["ad"]
-showComments = true
 date = "2017-10-25T15:59:13-04:00"
-draft = false
-showpagemeta = true
+description = "A post about the amazing team"
+showComments = true
 showcomments = true
+showpagemeta = true
 slug = ""
 tags = ["manuel", "codevend", "project", "software"]
 title = "The codeVend Team"
-description = "A post about the amazing team"
 
 +++
-
-
 - Manuel<br>
 - Abi Tellem<br>
 - SongoMan<br>

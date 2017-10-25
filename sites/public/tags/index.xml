@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on codeVend</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on codeVend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Oct 2017 15:59:13 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Codevend</title>
+      <link>/tags/codevend/</link>
+      <pubDate>Wed, 25 Oct 2017 15:59:13 -0400</pubDate>
+      
+      <guid>/tags/codevend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuel</title>
+      <link>/tags/manuel/</link>
+      <pubDate>Wed, 25 Oct 2017 15:59:13 -0400</pubDate>
+      
+      <guid>/tags/manuel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontop</title>
+      <link>/tags/ontop/</link>
+      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>/tags/ontop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>/tags/project/</link>
+      <pubDate>Wed, 25 Oct 2017 15:59:13 -0400</pubDate>
+      
+      <guid>/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/tags/software/</link>
+      <pubDate>Wed, 25 Oct 2017 15:59:13 -0400</pubDate>
+      
+      <guid>/tags/software/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

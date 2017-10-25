@@ -1,77 +1,58 @@
-baseURL = "/"
-
-## Basic Configuration
-
-baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+author = "Manuel Ampadu"
+baseurl = "https://shenoybr.github.io/hugo-goa-demo/"
 builddrafts = false
 canonifyurls = false
-languageCode = "en-US"
-encoding = 'UTF-8'
-
 contentdir = "content"
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo"
+enableRobotsTXT = true
+encoding = "UTF-8"
+googleAnalytics = "XYZ"
+languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
-
-author = "Manuel Ampadu"
-title = "codeVend"
-
-theme = "hugo-goa"
-
-## Hugo Built-in Features
-disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
 showComments = true
-googleAnalytics = "XYZ"
-enableRobotsTXT = true
-
-## Site Settings
+theme = "hugo-goa"
+title = "codeVend"
+[[menu.main]]
+identifier = "team"
+name = "Team"
+url = "/team/"
+weight = 4
+[[menu.main]]
+identifier = "codeVend"
+name = "codeVend"
+url = "/"
+weight = 3
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+[[menu.main]]
+identifier = "blog"
+name = "blog"
+url = "/blog/"
+weight = 1
 [params]
 author = "codeVend"
-intro = "Your code On a World Platform"
-description = "Third Party Software Vending'. <br/> \"What is F times 5? It's Fleventy-five.\""
 authorimage = "codeVend1.png"
 dateformat = "Oct 25, 2017"
-
-## Site Meta Settings
+description = "Third Party Software Vending'. <br/> \"What is F times 5? It's Fleventy-five.\""
+intro = "Your code On a World Platform"
+[params.extra]
+copyright = "&copy; 2017. Manuel Ampadu. [Some Rights Reserved]"
+highlightjs = true
+poweredby = false
 [params.meta]
 description = "Simple theme by Manuel"
 keywords = "developer"
-
-## Social Accounts
 [params.social]
-github = "oboizi"
-instagram = "<oboizi>"
-xing = "<username>"
-linkedin = "Manuel Ampadu Sarfo"
-twitter = "oboizi"
-facebook = "Manuell NaNa LA"
-google = "<username>"
-stackoverflow = "<username>"
 email = "manuel.ampadu.sarfo@huawei.com"
-
-## Extras
-[params.extra]
-copyright = "&copy; 2017. Manuel Ampadu. [Some Rights Reserved]"
-poweredby = false
-highlightjs = true
-
-## Main Menu
-[[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog/"
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
-[[menu.main]]
-    name = "codeVend"
-    identifier = "codeVend"
-    weight = 300
-    url = "/"
-[[menu.main]]
-    name = "Team"
-    identifier = "team"
-    weight = 400
-    url = "/team/"
+facebook = "Manuell NaNa LA"
+github = "oboizi"
+google = "<username>"
+instagram = "<oboizi>"
+linkedin = "Manuel Ampadu Sarfo"
+stackoverflow = "<username>"
+twitter = "oboizi"
+xing = "<username>"

@@ -1,6 +1,5 @@
 +++
 date = "2017-10-25T11:45:50-07:00"
-draft = false
 title = "about codeVend"
 
 +++

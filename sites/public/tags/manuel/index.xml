@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel on codeVend</title>
+    <link>/tags/manuel/</link>
+    <description>Recent content in Manuel on codeVend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Oct 2017 15:59:13 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/manuel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Simple codeVend Theory</title>
+      <link>/blog/first/</link>
+      <pubDate>Wed, 25 Oct 2017 15:59:13 -0400</pubDate>
+      
+      <guid>/blog/first/</guid>
+      <description>*codeVend comes in for Software Developers who cant find the right platform to document and showcase their produts for their right prices.
+*It comes with easy demo creation for the software uploaders and a critic board to test and debug your software. Your final year project could be the nect big thing, Electronic projects are not left out.&amp;rdquo;
+ Manuel  </description>
+    </item>
+    
+    <item>
+      <title>The codeVend Team</title>
+      <link>/team/first/</link>
+      <pubDate>Wed, 25 Oct 2017 15:59:13 -0400</pubDate>
+      
+      <guid>/team/first/</guid>
+      <description> Manuel
+ Abi Tellem
+ SongoMan
+ Opera
+ Colzy
+ BetterShata
+ Danso
+ Manuel
+  </description>
+    </item>
+    
+  </channel>
+</rss>
