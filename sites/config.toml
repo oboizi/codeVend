@@ -50,7 +50,7 @@ email = "manuel.ampadu.sarfo@huawei.com"
 
 ## Extras
 [params.extra]
-copyright = ""©" 2017. Manuel Ampadu. [Some Rights Reserved]"
+copyright = "&copy; 2017. Manuel Ampadu. [Some Rights Reserved]"
 poweredby = false
 highlightjs = true
 
