@@ -1,0 +1,76 @@
+baseURL = "/"
+
+## Basic Configuration
+
+baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Manuel Ampadu"
+title = "codeVend"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+showComments = true
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "codeVend"
+intro = "Your code On a World Platform"
+description = "Third Party Software Vending'. <br/> \"What is F times 5? It's Fleventy-five.\""
+authorimage = "codeVend1.png"
+dateformat = "Oct 25, 2017"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple theme by Manuel"
+keywords = "developer"
+
+## Social Accounts
+[params.social]
+github = "oboizi"
+instagram = "<oboizi>"
+xing = "<username>"
+linkedin = "Manuel Ampadu Sarfo"
+twitter = "oboizi"
+facebook = "Manuell NaNa LA"
+google = "<username>"
+stackoverflow = "<username>"
+email = "manuel.ampadu.sarfo@huawei.com"
+
+## Extras
+[params.extra]
+copyright = "© 2017. Manuel Ampadu. [Some Rights Reserved]"
+poweredby = false
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "codeVend"
+    identifier = "codeVend"
+    weight = 300
+    url = "/"
+[[menu.main]]
+    name = "Team"
+    identifier = "team"
+    weight = 400
+    url = "/team/"
